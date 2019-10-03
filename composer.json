@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/PI_Oopsprofile",
+    "name": "openmage-module-fostering\/pi_oopsprofile",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "This extension is used for import\/export products and customers.",
     "authors": [
