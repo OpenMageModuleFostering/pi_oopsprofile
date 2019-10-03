@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/PI_Oopsprofile",
+    "name": "OpenMageModuleFostering\/PI_Oopsprofile",
     "type": "magento-module",
     "license": "Open-Software-License-(OSL",
     "homepage": "",
-    "description": "This extension is used for import/export products and customers.",
+    "description": "This extension is used for import\/export products and customers.",
     "authors": [
-    {
-        "name": "pureimagination",
-        "email": "johncarter15oct@gmail.com"
-    }
-],
+        {
+            "name": "pureimagination",
+            "email": "johncarter15oct@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
